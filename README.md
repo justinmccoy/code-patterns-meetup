@@ -16,7 +16,7 @@ We operate on a simple code of conduct (eloquently put by Cocoapods) - [Don't be
 
 
 
-<img src="images/cp.jpeg" alt="logo" style="width: 50px;"/><font size="6">Past Patterns:</font>
+## Past Patterns:
 #### 11/27/17 Create and Deploy and Consume a Machine Learning Model w/ Watson Machine Learning
 
    **Technologies:** Data Science, Machine Learning, Web Services  
