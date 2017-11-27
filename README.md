@@ -14,8 +14,8 @@ Covering: Data Science, Machine Learning, Cloud Native Development, DevOps, and 
 We operate on a simple code of conduct (eloquently put by Cocoapods) - [Don't be a jerk](http://cocoapods.org/legal). 
 
 
-![logo](images/cp.jpeg)
-### Past Patterns:
+
+![logo](images/cp.jpeg)### Past Patterns:
 #### 11/27/17 Create and Deploy and Consume a Machine Learning Model w/ Watson Machine Learning
 
    **Technologies:** Data Science, Machine Learning, Web Services  
