@@ -15,7 +15,7 @@ We operate on a simple code of conduct (eloquently put by Cocoapods) - [Don't be
 
 
 ### Past Patterns:
-- 11/27/17 Create and Deploy and Consume a Machine Learning Model w/ Watson Machine Learning
+#### 11/27/17 Create and Deploy and Consume a Machine Learning Model w/ Watson Machine Learning
 
    **Technologies:** Data Science, Machine Learning, Web Services  
    **GitHub:** [https://github.com/justinmccoy/watson-dojo-pm-tester](https://github.com/justinmccoy/watson-dojo-pm-tester)   
